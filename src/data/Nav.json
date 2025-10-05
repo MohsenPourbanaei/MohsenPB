@@ -1,0 +1,8 @@
+{
+    "title": "Mohsen,",
+    "sub": "Video Producer",
+    "link1": {"lable":"Present", "link":"#about"},
+    "link2": {"lable":"Gallery", "link":"#gallery"},
+    "link3": {"lable":"Contact", "link":"#contact"},
+    "botton": "Download CV"
+}
