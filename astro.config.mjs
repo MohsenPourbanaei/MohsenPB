@@ -13,7 +13,7 @@ export default defineConfig({
       },
     }),
   ],
-  site: 'https://mohsenpourbanaei.github.io',
-  base: '/MohsenPB/',
+  site: 'https://mohsenpb.ir',
+  base: '/',
   output: 'static',
 });
