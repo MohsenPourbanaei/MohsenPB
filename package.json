@@ -10,7 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.10",
     "@astrojs/react": "^3.3.2",
     "@astrojs/tailwind": "^5.1.0",
     "@fontsource-variable/archivo": "^5.0.19",
@@ -33,6 +32,9 @@
     "typescript": "^5.4.5"
   },
   "devDependencies": {
-    "@astrojs/partytown": "^2.1.0"
+    "@astrojs/check": "^0.5.10",
+    "@astrojs/partytown": "^2.1.0",
+    "cross-env": "^10.1.0",
+    "gh-pages": "^6.3.0"
   }
 }

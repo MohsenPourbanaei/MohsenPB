@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global resets and base styles */
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: #000000;
+  color: #ffffff;
+}
+
